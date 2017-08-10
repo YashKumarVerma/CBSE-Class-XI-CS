@@ -1,4 +1,5 @@
 // Multiply a number by 2 without using *
+// by yashkumarverma
 #include<iostream>
 
 using namespace std;
